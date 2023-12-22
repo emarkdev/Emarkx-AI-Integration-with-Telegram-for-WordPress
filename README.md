@@ -1,6 +1,6 @@
 Two WordPress Plugins thus far and they are WooCommerce Checkout Manager and Emarkx Integration with Telegram.
 
-WooCommerce Checkout Manager
+WooCommerce Checkout Manager,
 Reference
 
 Plugin Link:

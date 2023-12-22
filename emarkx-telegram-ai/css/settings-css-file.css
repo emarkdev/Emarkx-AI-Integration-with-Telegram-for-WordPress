@@ -1,0 +1,84 @@
+/*  
+ * Settings Page Styling
+*/ 
+.wrap h1 {
+	font-size: 35px !important;
+	font-weight: 600;
+    padding-bottom: 20px;
+}
+.wrap {
+	padding: 20px !important;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif !important;
+}
+
+.form-table, h2 {
+	font-weight: 400 !important;
+	font-size: 18px !important;	
+}
+.form-table th, ul {
+	font-weight: 400 !important;
+	font-size: 16px !important;	
+}
+input {
+	display: inline-block;
+	width: 100%;
+	padding: 6px 12px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+
+input:focus {
+	border-color: #66afe9;
+	outline: 0;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+div button {
+	
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+	border-radius: 4px;
+	width: 48% !important;
+}
+
+div button:hover, div button:focus {
+	cursor: pointer;
+	background-color: #0056b3;
+}
+
+h2 {
+	padding-top: 25px;
+}
+
+#content2 li {
+	padding-top: 15px;
+}
+
+#content2 li a {
+	text-decoration: underline;
+    cursor: pointer;
+}
+
+#content2 ul div {
+	background: white;
+	border-radius: 4px;
+	padding: 15px;
+	
+}
+
+#donate {
+	float: right;
+}
+
+#cute-buttons {
+	margin-right: -25px !important;
+}

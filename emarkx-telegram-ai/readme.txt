@@ -6,8 +6,7 @@ Requires at least: 5.3
 Tested up to: 6.2.2
 Requires PHP: 5.3
 Stable tag: 1.0.0
-License: GPL-2.0+
-License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+License: Non-GPL
 
 Solve problems at a faster rate using AI Technology and Telegram.
 

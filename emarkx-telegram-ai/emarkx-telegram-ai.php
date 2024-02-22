@@ -16,8 +16,7 @@
 * Version:           1.0.0
 * Author:            Ephrain Marchan
 * Author URI:        https://emarkdev.com
-* License:           GPL-2.0+
-* License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+* License:           Non-GPL
 * Text Domain:       emarkx-telegram-ai
 * Domain Path:       /languages
 *

@@ -1,3 +1,6 @@
+Download Link:
+https://emarkdev.com/sdc_download/775/?key=z4gcnjmbz6ikasoju7xijulr6j5ybd
+
 /**
 * This file is read by WordPress to generate the plugin information in the plugin
 * admin area. This file also includes all of the dependencies used by the plugin,
@@ -10,7 +13,7 @@
 *
 * @wordpress-plugin
 * Plugin Name:       Emarkx AI Integration with Telegram
-* Plugin URI:		 https://emarkdev.com/emarkx-telegram-ai-2/
+* Plugin URI:		 https://emarkdev.com/emarkx-telegram-ai-page/
 * Description:       Solve problems at a faster rate using AI Technology and Telegram.
 * Version:           1.0.0
 * Author:            Ephrain Marchan
